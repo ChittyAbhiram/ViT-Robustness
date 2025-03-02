@@ -1,0 +1,256 @@
+Files already downloaded and verified
+0
+Time Elapsed: 10.583990335464478
+1
+Time Elapsed: 6.225779294967651
+2
+Time Elapsed: 4.866527795791626
+3
+Time Elapsed: 10.623733758926392
+4
+out of queries
+Attack failed on Image 4, returning clean sample instead.
+Time Elapsed: 33.109947204589844
+5
+Time Elapsed: 11.083195686340332
+6
+Time Elapsed: 0.6526272296905518
+7
+Time Elapsed: 12.378839015960693
+8
+Time Elapsed: 12.560247898101807
+9
+out of queries
+Attack failed on Image 9, returning clean sample instead.
+Time Elapsed: 33.221768617630005
+10
+Time Elapsed: 16.121753931045532
+11
+Time Elapsed: 21.872076988220215
+12
+Time Elapsed: 32.42029166221619
+13
+Time Elapsed: 9.708752155303955
+14
+Time Elapsed: 12.641174554824829
+15
+Time Elapsed: 9.804344177246094
+16
+Time Elapsed: 32.30760955810547
+17
+Time Elapsed: 32.267006397247314
+18
+Time Elapsed: 8.450504779815674
+19
+Time Elapsed: 9.957217931747437
+20
+Time Elapsed: 21.84088683128357
+21
+Time Elapsed: 10.79001235961914
+22
+out of queries
+Attack failed on Image 22, returning clean sample instead.
+Time Elapsed: 33.045175552368164
+23
+Time Elapsed: 1.2642240524291992
+24
+out of queries
+Attack failed on Image 24, returning clean sample instead.
+Time Elapsed: 33.149622440338135
+25
+Time Elapsed: 1.8115577697753906
+26
+Time Elapsed: 29.074125051498413
+27
+Time Elapsed: 18.101617097854614
+28
+Time Elapsed: 2.756229877471924
+29
+Time Elapsed: 1.9188737869262695
+30
+Time Elapsed: 8.022781133651733
+31
+Time Elapsed: 29.39041519165039
+32
+Time Elapsed: 1.0996685028076172
+33
+Time Elapsed: 11.933398485183716
+34
+out of queries
+Attack failed on Image 34, returning clean sample instead.
+Time Elapsed: 32.99612045288086
+35
+out of queries
+Attack failed on Image 35, returning clean sample instead.
+Time Elapsed: 33.03236413002014
+36
+Time Elapsed: 5.508004665374756
+37
+Time Elapsed: 27.45040202140808
+38
+Time Elapsed: 6.35070013999939
+39
+Time Elapsed: 4.377588510513306
+40
+out of queries
+Attack failed on Image 40, returning clean sample instead.
+Time Elapsed: 33.123024225234985
+41
+Time Elapsed: 3.8186633586883545
+42
+Time Elapsed: 1.8844146728515625
+43
+Time Elapsed: 6.62600302696228
+44
+Time Elapsed: 3.26808500289917
+45
+out of queries
+Attack failed on Image 45, returning clean sample instead.
+Time Elapsed: 32.973408222198486
+46
+Time Elapsed: 6.931943893432617
+47
+out of queries
+Attack failed on Image 47, returning clean sample instead.
+Time Elapsed: 32.9783034324646
+48
+Time Elapsed: 4.399094104766846
+49
+Time Elapsed: 19.149811267852783
+50
+Time Elapsed: 26.939160346984863
+51
+Time Elapsed: 7.931530475616455
+52
+Time Elapsed: 3.23429012298584
+53
+out of queries
+Attack failed on Image 53, returning clean sample instead.
+Time Elapsed: 33.14676070213318
+54
+Time Elapsed: 8.03534197807312
+55
+Time Elapsed: 18.906074047088623
+56
+Time Elapsed: 14.450467824935913
+57
+Time Elapsed: 5.448613166809082
+58
+Time Elapsed: 26.381924152374268
+59
+Time Elapsed: 3.2364094257354736
+60
+out of queries
+Attack failed on Image 60, returning clean sample instead.
+Time Elapsed: 32.962422609329224
+61
+Time Elapsed: 3.2473039627075195
+62
+Time Elapsed: 30.33243703842163
+63
+out of queries
+Attack failed on Image 63, returning clean sample instead.
+Time Elapsed: 32.93613791465759
+64
+Time Elapsed: 14.938868522644043
+65
+out of queries
+Attack failed on Image 65, returning clean sample instead.
+Time Elapsed: 32.975606203079224
+66
+out of queries
+Attack failed on Image 66, returning clean sample instead.
+Time Elapsed: 33.12037253379822
+67
+Time Elapsed: 5.919969081878662
+68
+Time Elapsed: 15.843275547027588
+69
+Time Elapsed: 5.636761665344238
+70
+Time Elapsed: 8.065834760665894
+71
+out of queries
+Attack failed on Image 71, returning clean sample instead.
+Time Elapsed: 32.98490595817566
+72
+Time Elapsed: 5.542821884155273
+73
+out of queries
+Attack failed on Image 73, returning clean sample instead.
+Time Elapsed: 33.14081645011902
+74
+out of queries
+Attack failed on Image 74, returning clean sample instead.
+Time Elapsed: 33.06859493255615
+75
+Time Elapsed: 8.78925633430481
+76
+Time Elapsed: 30.39084243774414
+77
+out of queries
+Attack failed on Image 77, returning clean sample instead.
+Time Elapsed: 33.091153383255005
+78
+Time Elapsed: 12.997161388397217
+79
+Time Elapsed: 17.674160480499268
+80
+out of queries
+Attack failed on Image 80, returning clean sample instead.
+Time Elapsed: 33.10904908180237
+81
+Time Elapsed: 7.370155572891235
+82
+Time Elapsed: 4.9541099071502686
+83
+Time Elapsed: 22.16320300102234
+84
+out of queries
+Attack failed on Image 84, returning clean sample instead.
+Time Elapsed: 32.99915909767151
+85
+Time Elapsed: 20.446759939193726
+86
+out of queries
+Attack failed on Image 86, returning clean sample instead.
+Time Elapsed: 33.01067066192627
+87
+out of queries
+Attack failed on Image 87, returning clean sample instead.
+Time Elapsed: 33.04693126678467
+88
+Time Elapsed: 10.941780805587769
+89
+out of queries
+Attack failed on Image 89, returning clean sample instead.
+Time Elapsed: 33.01989960670471
+90
+out of queries
+Attack failed on Image 90, returning clean sample instead.
+Time Elapsed: 33.03796458244324
+91
+Time Elapsed: 10.396045446395874
+92
+Time Elapsed: 4.845747232437134
+93
+Time Elapsed: 9.343543767929077
+94
+Time Elapsed: 13.367032766342163
+95
+out of queries
+Attack failed on Image 95, returning clean sample instead.
+Time Elapsed: 33.03023290634155
+96
+Time Elapsed: 18.032797813415527
+97
+out of queries
+Attack failed on Image 97, returning clean sample instead.
+Time Elapsed: 33.01777672767639
+98
+Time Elapsed: 26.376859426498413
+99
+Time Elapsed: 4.447988986968994
+Queries used: 3000
+Robust acc: 0.26
+Clean acc: 0.9912
